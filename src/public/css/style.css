@@ -1,0 +1,11 @@
+.nav-wrapper{
+    text-align: center;
+}
+.title{
+    font-size: 50px;
+    
+}
+.box{
+    border-color: black;
+    border: 15px;
+}
